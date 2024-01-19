@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nur Aina Balqis</h1>
-<h3 align="center">Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing</h3>
+<h3 align="center">Bachelor Of Computer Science (Graphics And Multimedia Software) With Honours Computing🎓 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurainabalqis&label=Profile%20views&color=0e75b6&style=flat" alt="nurainabalqis" /> </p>
 
 
-![my self1](https://github.com/nurainabalqis/nurainabalqis/assets/148413115/11e388cd-8510-471d-a183-22931ba4e5b0)
+
+https://github.com/nurainabalqis/nurainabalqis/assets/148413115/eb4ff22c-792a-44be-b479-633d9d8cc07b
 
 
 **Get to know me ❤️**
@@ -21,14 +22,15 @@ Hye buddies, my full name is Nur Aina Balqis Binti Mohamad Zaparin..You can call
 
 # :notebook_with_decorative_cover: My Studies
 
-Education
+_Education_
 - University Technology Malaysia, Now (2023 - 2027)
 - Negeri Sembilan Matriculation College (2022 - 2023)
 - Tuanku Jaafar Technical Institute (2020 - 2021)
 - Pendeta Za'ba National Secondary School (2017 - 2019)
 
 
-Co-curriculum / Achievements
+_Co-curriculum / Achievements_
+- Committee Member of KTDI
 - Assistant Practicum Leader (2022 - 2023)
 - Committee Member of the Reading Promotion Program (2022 - 2023)
 - Training and Guidance Bureau of the Zaba Reverend Friends Club (2022 - 2023)
@@ -39,6 +41,10 @@ Co-curriculum / Achievements
 - Resource Center Oversight Committee Member (2018 - 2019)
 - Girl Guide Association Committee Member (2019)
 - International level Science, Technology, Engineering and Mathematics (STEM) involvement (2021)
+
+  [Co-Curiculum Certificate..pdf](https://github.com/nurainabalqis/nurainabalqis/files/13984490/Co-Curiculum.Certificate.pdf)
+
+  #### 🔼 _Here are some of the co-curricular certificates I've earned, each representing dedication, hard work and a passion for continuous growth._
 
 # 👩‍💻 Work Experience
 - Model and Customer Service gallery of Ustazah Asma Harun (March 2022 - June 2022)
@@ -73,7 +79,7 @@ flowchart LR
     On the flip side,my ability to work independently is marked  
     by self-motivation, a strong sense of responsibility, and
     the capability to manage my time efficiently 
-    without constant supervision."]
+    without constant supervision.🤝💼"]
     markdown --> newLines
 
   ```
@@ -90,7 +96,7 @@ flowchart LR
     staying updated on industry trends.
     This enthusiasm for learning not only keeps me
     adaptable but also allows me to bring fresh 
-    ideas and insights to any project."]
+    ideas and insights to any project.🌱💡📚"]
     markdown --> newLines
 
   ```
@@ -108,23 +114,38 @@ flowchart LR
     exceed specified time frames. This ability to 
     deliver results on time is a combination of 
     meticulous planning, focused work, and a proactive 
-    approach to problem-solving. "]
+    approach to problem-solving.⏰✨🚀 "]
     markdown --> newLines
 
   ```
 
 
+
 # ✨ Soft Skills
-## Critical Thinking
-I've always prided myself on my critical thinking abilities. It's second nature for me to dissect information, consider different viewpoints, and make well-thought-out decisions. This skill not only helps me navigate complex situations but also positions me as someone who can contribute strategically to various endeavors.
+## Critical Thinking 🤔
+I've always prided myself on my critical thinking abilities. It's second nature for me to dissect information, consider different viewpoints, and make well-thought-out decisions. This skill not only helps me navigate complex situations but also positions me as someone who can contribute strategically to various endeavors. 🌐
 
-## Leadership
-Being a natural leader is something I've cultivated throughout my journey. Confidence, vision, and the ability to inspire and guide my team are qualities I consistently bring to the table. I create an environment where everyone feels empowered, ultimately contributing to a positive and productive work atmosphere.
+## Leadership 🚀
+Being a natural leader is something I've cultivated throughout my journey. Confidence, vision, and the ability to inspire and guide my team are qualities I consistently bring to the table. I create an environment where everyone feels empowered, ultimately contributing to a positive and productive work atmosphere. 🌟👥
 
-## Decision-Making
-Decision-making is an area where I shine. I consider relevant information, weigh pros and cons meticulously, and make timely and effective choices. My decision-making abilities contribute to successful outcomes in both professional and personal spheres.
+## Decision-Making 🤔📊
+Decision-making is an area where I shine. I consider relevant information, weigh pros and cons meticulously, and make timely and effective choices. My decision-making abilities contribute to successful outcomes in both professional and personal spheres. ⚖️💼
+
+## Creativity 💡
+I've always considered myself a creative thinker. Whether it's brainstorming innovative ideas or finding inventive solutions to challenges, my creative skills bring a fresh perspective to any project. I take pride in contributing to the development of new concepts and strategies. 🌈🎨
+
+## Stress Management 🌊
+Managing stress is a skill I've mastered. Through practices of self-care, setting boundaries, and employing effective strategies, I stay focused and composed even in the face of challenging situations. 🧘‍♂️💪
 
 
+# 💻 Computer Skills
+
+
+|                                                                                                                                                                              Programming Languages                                                                                                                                                                            |                                                                                                                                                                          Email Communication                                                                                                                                                                          |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| I am proficient in several programming languages, including Python, Java, and C++. These languages empower me to develop versatile and efficient applications, contributing to my ability to tackle a variety of software development projects. 🚀💡 | Email is my digital playground. I can compose, reply, and manage emails without breaking a sweat, keeping my communication game strong. 📧💬 |
+|                                                                                                                                                                                Basic Excel Skills                                                                                                                                                                               |                                                                                                                                                                      Online Collaboration Tools                                                                                                                                                                   |
+| I can handle Excel like a champ – creating simple spreadsheets, organizing data, and running basic calculations without any hiccups. 📊📈                                             | Platforms like Zoom, Webex, or Google Meet are my go-to for virtual meetings and collaboration. I can schedule, join, and contribute seamlessly. 🌐💻                               |
 
 
 <h3 align="left">Languages and Tools:</h3>
